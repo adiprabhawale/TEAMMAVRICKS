@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "699803408125",
+    "firebase_url": "https://teammavricks-f0d39.firebaseio.com",
+    "project_id": "teammavricks-f0d39",
+    "storage_bucket": "teammavricks-f0d39.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:699803408125:android:20fba61d1b72bb60",
+        "android_client_info": {
+          "package_name": "anonymous.teammavricks"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "699803408125-bqsai6eegh6r8v5ss8jneuqdsjedh7c1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "anonymous.teammavricks",
+            "certificate_hash": "1dc5e55c62af8cd3d5e2ed35f0f6059de1f8e6f8"
+          }
+        },
+        {
+          "client_id": "699803408125-g6jvjjccipdva46shnbpo8fn3m2g9mc3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDV3engOjvOFqKpHCBMjeQsjKVqN9ITKIE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "699803408125-g6jvjjccipdva46shnbpo8fn3m2g9mc3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
